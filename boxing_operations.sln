@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boxing_operations", "boxing_operations\boxing_operations.csproj", "{94867E2C-F414-46B4-9D0E-937D3DF5266B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94867E2C-F414-46B4-9D0E-937D3DF5266B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94867E2C-F414-46B4-9D0E-937D3DF5266B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94867E2C-F414-46B4-9D0E-937D3DF5266B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94867E2C-F414-46B4-9D0E-937D3DF5266B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
